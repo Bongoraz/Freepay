@@ -1,2 +1,0 @@
-# Freepay
-FreePaid.com
